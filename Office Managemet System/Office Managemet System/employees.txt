@@ -1,0 +1,14 @@
+Employee 1:
+Employee ID: 2233146
+Name: Hassan
+Department: Software
+Position: Developer
+Salary: 500000
+
+Employee 2:
+Employee ID: 2233579
+Name: Ishmal
+Department: IT
+Position: FrontEndDeveloper
+Salary: 5000000
+
